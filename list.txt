@@ -1,0 +1,16 @@
+npx expo install react-native-safe-area-context
+npm install @react-navigation/bottom-tabs
+npm install @react-navigation/native
+npm install @react-navigation/stack
+
+npx expo install expo-image
+
+
+// Gallery
+
+npm i react-native-qrcode-svg
+npx expo install react-native-view-shot
+npx expo install expo-media-library
+
+// History
+
