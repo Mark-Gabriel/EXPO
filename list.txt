@@ -1,0 +1,6 @@
+npx expo install react-native-safe-area-context
+npm install @react-navigation/bottom-tabs
+npm install @react-navigation/native
+npm install @react-navigation/stack
+
+npx expo install expo-router react-native-safe-area-context react-native-screens expo-linking expo-constants expo-status-bar react-native-gesture-handler
